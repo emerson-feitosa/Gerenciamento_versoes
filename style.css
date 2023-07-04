@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+    background-color: aquamarine;
+    width: 800px;
+}
+li{
+    margin: auto;
+    font-size: 2em;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
